@@ -1,4 +1,4 @@
-pathr - a PATH management program
+## pathr - a PATH management program
 Copyright (C) 2024  Nico Locklear Cruz
 
 This program is free software: you can redistribute it and/or modify
