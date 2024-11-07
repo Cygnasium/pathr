@@ -14,17 +14,18 @@
 
 ## Installation
 
-1. Download the `pathr_installer.exe` file.
-2. Type `install`.
+1. Download the `pathr.exe` file.
+2. Open terminal and type "python -m site --user-base".
+3. Type move "path/to/pathr.exe" "path/from/step/two".
 
 ## Commands
 
-pathr -listpath         : List all directories in PATH.
-pathr -listex           : List all executables in PATH.
-pathr --topath <path>   : Add a directory to PATH.
-pathr --rmfrompath <path>: Remove a directory from PATH.
-pathr --find <name>     : Find an executable by name.
-pathr -showpath        : Display the current PATH environment variable.
-pathr --savepath        : Save the current PATH to a file.
-pathr --loadpath <file> : Load PATH from a saved file.
+pathr -listpath         : List all directories in PATH.\n
+pathr -listex           : List all executables in PATH.\n
+pathr --topath <path>   : Add a directory to PATH.\n
+pathr --rmfrompath <path>: Remove a directory from PATH.\n
+pathr --find <name>     : Find an executable by name.\n
+pathr -showpath        : Display the current PATH environment variable.\n
+pathr --savepath        : Save the current PATH to a file.\n
+pathr --loadpath <file> : Load PATH from a saved file.\n
 pathr -help             : Display this help menu.
