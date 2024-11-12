@@ -15,10 +15,10 @@
 ## Installation
 
 1. Download the `pathr.exe` file.
-2. Open terminal and type "python -m site --user-base".
-3. Type "move path/to/pathr.exe path/from/step/two".
+2. Open terminal and type `python -m site --user-base`.
+3. Type `move path/to/pathr.exe path/from/step/two`.
    
-You can now use pathr. To start, type "pathr".
+You can now use pathr. To start, type `pathr`.
 
 ## Commands
 
